@@ -1,4 +1,7 @@
 # 🚀🌌
+
+![e2eed12d1](https://github.com/hunterjreid/MMO_game/assets/62681404/ede65fdc-0359-49ce-a600-fa8d8e2963a8)
+
 Introducing "Astro Conquest: Clash of Planets"  
 
 Astro Conquest is an exciting and immersive mobile game available for both iOS and Android, combining the captivating gameplay of Poly Star and the strategic elements of Clash of Clans. In this game, you embark on an interstellar adventure as a courageous astronaut stationed on Pluto, which serves as your home base and starting planet. Your ultimate goal is to conquer the galaxy by expanding your reach and dominating the leaderboard.
