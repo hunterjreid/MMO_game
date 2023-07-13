@@ -1,5 +1,6 @@
-![image](https://github.com/hunterjreid/MMO_game/assets/62681404/28a5b862-b08d-40a9-8849-f777eda67d5a)
 
+![Untitled-1](https://github.com/hunterjreid/MMO_game/assets/62681404/1c54ad79-6cf0-4db6-8475-b39a01fe5887)
+![image](https://github.com/hunterjreid/MMO_game/assets/62681404/28a5b862-b08d-40a9-8849-f777eda67d5a)
 # 🚀🌌
 
 ![e2eed12d1](https://github.com/hunterjreid/MMO_game/assets/62681404/ede65fdc-0359-49ce-a600-fa8d8e2963a8)
